@@ -1,6 +1,6 @@
 # bankaccount-module
 
-GUI:
+GUI
 ![Screenshot](Bankaccount_gui.jpeg)
 
 
